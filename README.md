@@ -21,7 +21,7 @@ https://the-rg-archive.github.io/webarchive/exsorbeo.com
 
 https://the-rg-archive.github.io/webarchive/fearitdoit.com
 
-https://the-rg-archive.github.io/webarchive/gta3.de
+https://the-rg-archive.github.io/webarchive/gta3.de/main.html
 
 https://the-rg-archive.github.io/webarchive/kentpaul.com
 
